@@ -64,3 +64,13 @@ plt.title('Regressão: Preço em função do Desconto', fontsize=16)
 plt.xlabel('Desconto (%)', fontsize=14)
 plt.ylabel('Preço (R$)', fontsize=14)
 plt.show()
+
+
+
+![Image](https://github.com/user-attachments/assets/2894af04-25be-4ae6-ba67-ebbfca5b1997)
+![Image](https://github.com/user-attachments/assets/73623406-ed20-40eb-8bc1-c278254834bb)
+![Image](https://github.com/user-attachments/assets/2fb0b90c-fe1a-472c-9ecf-90774480565a)
+![Image](https://github.com/user-attachments/assets/4d1210c0-51bf-477f-bf90-adb1de762c40)
+![Image](https://github.com/user-attachments/assets/e751ff6c-d7fc-4e3f-9e36-b26f6e030d2a)
+![Image](https://github.com/user-attachments/assets/23e2fc3c-10de-473b-a80a-566994380604)
+![Image](https://github.com/user-attachments/assets/8f8cfb7b-1f44-4ef9-858a-ddbaf8533321)
